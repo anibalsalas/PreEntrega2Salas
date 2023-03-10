@@ -1,0 +1,8 @@
+.containercard{
+    border: 1px solid #797777;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+    width: 300px;    
+}
